@@ -1,1 +1,1 @@
-# Ai-course-maker
+# Ai-course-planner
